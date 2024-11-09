@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is y.x.Luo
 ===============================================================================================================================
-```
-Computer Science & Engineering master's student @ University of Oulu, Finland 
+
+Computer Science & Engineering master's student @ University of Oulu, Finland  
 Telecommunication Engineering bachelor @ Huaqiao University, China
-```
+
 *   🌍  I'm based in Oulu, Finland
 *   ✉️  You can contact me at [lyx666233@gmail.com](mailto:lyx666233@gmail.com)
 *   🧠  I'm learning AIoT & Edge Computing
